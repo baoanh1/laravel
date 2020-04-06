@@ -1,0 +1,80 @@
+.contactInfo .PaperInfoWrapper .BasicInfo .InfoWrapper {
+    margin-left: 10px;
+    width: 100%;
+}
+.contactInfo .PaperInfoWrapper .BasicInfo .AvatarWrapper {
+    padding-right: 5px;
+}
+.contactInfo .name {
+    font-size: 18px;
+    font-weight: 600;
+}
+.contactInfo .PaperInfoWrapper .BasicInfo .InfoWrapper .FollowRow {
+    margin: 10px 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 12px;
+}
+.contactInfo .PaperInfoWrapper .BasicInfo .InfoWrapper .UltiRow .MainFunctionButton.Follow, .shopNavigation .right-panel button {
+    background-color: #fe9900;
+    color: #fff;
+    border: 1px solid transparent;
+}
+.contactInfo .circleButton {
+    border: 1px solid #d7d9dc;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #fff;
+}
+.contactInfo .PaperInfoWrapper .BasicInfo .InfoWrapper .UltiRow .MainFunctionButton:hover {
+    opacity: .7;
+}
+.contactInfo .PaperInfoWrapper .BasicInfo .InfoWrapper .UltiRow .MainFunctionButton.Follow, .shopNavigation .right-panel button {
+    background-color: #fe9900;
+    color: #fff;
+    border: 1px solid transparent;
+}
+.BasicInfo .InfoWrapper .UltiRow .MainFunctionButton {
+    cursor: pointer;
+    text-align: center;
+    line-height: 1.5;
+    max-width: 125px;
+    font-size: 14px;
+    border-radius: 20px;
+    outline: 0;
+    padding: 4px 10px;
+    min-height: 30px;
+    margin-right: 10px;
+    -webkit-transition: opacity 200ms ease-in-out;
+    -o-transition: opacity 200ms ease-in-out;
+    transition: opacity 200ms ease-in-out;
+}
+.contactInfo .circleButton {
+    border: 1px solid #d7d9dc;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #fff;
+}
+.contactInfo .PaperInfoWrapper .ExtraInfo {
+    padding: 15px;
+    font-size: 13px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.contactInfo .PaperInfoWrapper {
+    text-align: left;
+}
+
